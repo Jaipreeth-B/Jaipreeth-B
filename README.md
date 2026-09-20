@@ -3,7 +3,6 @@
 <br>
 <a href="mailto:jaipreethballa@gmail.com?subject=Hi Jaipreeth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://linkedin.com/in/balla-jaipreeth"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/Jaipreeth-B"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 - 🌱 I’m currently building and scaling backend API designs, MLOps infrastructure, and Agentic AI integrations.
