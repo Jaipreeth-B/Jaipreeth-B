@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently building and scaling backend API designs, MLOps infrastructure, and Agentic AI integrations.
-- 👯 I’m looking to collaborate and learn while building time-sensitive scheduling workflows and AI applications and building games.
+- 👯 I’m looking to collaborate and learn while building time-sensitive scheduling workflows, AI applications and building games.
 - 📬 How to reach me: [Let's get in touch!](mailto:jaipreethballa@gmail.com)[cite: 2]
 
 ### ⚡ Github Stats
